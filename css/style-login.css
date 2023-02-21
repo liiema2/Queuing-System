@@ -1,0 +1,59 @@
+.login{
+    display: flex;
+}
+.login-right{
+   
+    width: 53rem;
+    height: 50.625rem;
+}
+.login-left{
+    background-color: var(--page-design-1);
+    width: 37rem;
+    height: 50.625rem;
+}
+.login-left-logo{
+
+margin-top: 8.5rem;
+margin-left: 10.625rem;
+}
+.login-left-from{
+    margin-top: 4.6875rem;
+    margin-left: 5.875rem;
+    width: 25rem;
+    height: 12.4375rem;
+    font-family:'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 1.6875rem;
+}
+.login-left-from input {
+  
+    width: 100%;
+    border: 1.5px solid #D4D4D7;
+    border-radius: 8px;
+    padding: 10px 270px 10px 12px;
+    align-items: center;
+    height: 44px;
+}
+.form-input-name{
+    margin-bottom: 1rem;
+
+}
+.form-input-pw{
+margin-bottom: 0.75rem;
+}
+
+.login-right{
+margin-left:4.9375rem ;
+margin-top:7.05875rem ;
+
+}
+
+.form-a-forgot-passwd{
+    color :var(--color-red);
+ 
+    font-size:    0.875rem;
+    text-decoration: none;
+    display:block;
+}

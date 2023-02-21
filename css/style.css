@@ -1,0 +1,15 @@
+:root{
+
+--page-design-2: #FF9138;
+--page-design-1:#F7F7F7;
+--trang:#FFFFFF;
+--font-color: #37474F;
+--color-red: #E73F3F;
+--color-bule:#5185F7;
+
+}
+*{
+    margin: 0 auto;
+    font-size: 16px;
+    box-sizing:border-box;
+}
