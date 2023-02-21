@@ -1,0 +1,33 @@
+
+.logo image{
+  
+    width: 5rem;
+    height: 4rem;
+}
+.logo{
+    margin-left: 3rem;
+}
+.menu{
+    display: flex;
+}
+.calass1{
+
+    width: 12.5rem;
+    margin-left:0.75rem ;
+}
+.calass2{
+
+    width: 77.5rem;
+}
+.fuction-list-Dashboard{
+    width: 3rem;
+    margin-top: 3.375rem;
+}
+.fuction-list-Dashboard a{
+    display: flex;
+    text-decoration: none;
+    color: var(--color-fuction-list);
+}
+.fuction-list-Dashboard img{
+    margin-right: 0.5rem;
+}
